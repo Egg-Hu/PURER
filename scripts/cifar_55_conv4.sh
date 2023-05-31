@@ -1,0 +1,26 @@
+python main.py \
+--multigpu 2 \
+--gpu 0 \
+--dataset cifar100 \
+--way_train 5 \
+--num_sup_train 5 \
+--num_qur_train 15 \
+--way_test 5 \
+--num_sup_test 5 \
+--num_qur_test 15 \
+--backbone conv4 \
+--episode_train 240000 \
+--episode_test 600 \
+--inner_update_num 1 \
+--test_inner_update_num 1 \
+--inner_lr 0.01 \
+--outer_lr 0.001 \
+--episode_batch 4 \
+--val_interval 2000 \
+--save_interval 2000 \
+--pre_backbone conv4 \
+--synthesis_per_class 20 \
+--adv \
+--average \
+--adv_start 4000 \
+--adv_scale 10.0
