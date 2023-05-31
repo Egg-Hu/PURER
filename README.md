@@ -1,6 +1,6 @@
 # Official Pytorch Implementation for "Architecture, Dataset and Model-Scale Agnostic Data-free Meta-Learning" (CVPR-2023)
 
-**New**: We release an extension version of our PURER here (on-going). PURER-Plus can
+**New**: We release an extension version of our PURER [here](https://github.com/Egg-Hu/PURER-Plus). PURER-Plus can
 
 1. work well with ProtoNet (metric-based) and ANIL/MAML (optimization-based);
 2. work well with a larger number of pre-trained models with overlapping label spece.
