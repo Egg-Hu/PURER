@@ -139,7 +139,7 @@ If you find this code is useful to your research, please consider to cite our pa
 
 ## Acknowledgements:
 
-Some codes are inspired from [DeepInversion](https://github.com/NVlabs/DeepInversion) and [CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot/tree/master).
+Some codes are inspired from [DeepInversion](https://github.com/NVlabs/DeepInversion),  [CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot/tree/master) and [CMI](https://github.com/zju-vipa/CMI).
 
 ## Contact:
 
